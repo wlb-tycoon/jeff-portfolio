@@ -7,13 +7,13 @@ export const personalData = {
   email: "jefflingad68@gmail.com",
   phone: "+63 963 424 9175",
   address: "Angeles City, Philippines",
-  github: "https://github.com/wlb-tycoon",
+  github: "https://github.com/miniblaster",
   facebook: "https://www.facebook.com/jeff.lingad/",
   linkedIn: "https://www.linkedin.com/in/jeff-lingad/",
   twitter: "https://twitter.com/jeff_lingad",
   stackOverflow: "https://stackoverflow.com/users/23916061/lovin-hood",
   leetcode: "https://leetcode.com/jefflingad/",
-  devUsername: "wlb-tycoon",
+  devUsername: "miniblaster",
   resume:
     "https://drive.google.com/open?id=1-yAdQ4R9tmAEibpiHFSnhA354Hvmclik&usp=drive_fs",
 };
